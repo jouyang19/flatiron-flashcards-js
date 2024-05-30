@@ -8,7 +8,7 @@ import {
 } from "@/components/ui/card";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import SharedDecks from "@/components/sharedDecks";
+import SharedDecks from "@/components/SharedDecks";
 import UserDecks from "@/components/UserDecks";
 import { useContext } from "react";
 import { userContext } from "@/components/UserContext";
